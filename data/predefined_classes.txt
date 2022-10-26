@@ -1,0 +1,10 @@
+canele
+craftbox
+choco_crofle
+choco_muffin
+muffin
+pretzel
+sausage_cup
+sausage_box
+white_crofle
+yellow_crofle
